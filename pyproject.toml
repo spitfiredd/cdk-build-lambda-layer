@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "cdk-build-lambda-layer"
 version = "0.1.0"
-description = ""
+description = "CDK Construct for managing Layer Assets"
 authors = ["Daniel Donovan <spitfiredd@gmail.com>"]
 readme = "README.md"
 
